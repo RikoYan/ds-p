@@ -1,4 +1,4 @@
-# Bike-Sharing Rental :Bike
+# Bike-Sharing Rental
 
 ## Setup environment
 '''
