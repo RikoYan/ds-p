@@ -172,22 +172,4 @@ with col2:
     ax.tick_params(axis='y', labelsize=30)
     st.pyplot(fig)
 
-st.subheader('Conclusion')
-st.markdown(
-"""
-- Conclusion pertanyaan 1 : Berapa banyak total pengguna dalam beberapa bulan terakhir?
-- seperti tahun sebelumnya total pengguna dalam beberapa bulan terakhir mengalami penurunan dan biasanya akan barangsur kembali meningkat :green[januari] dan meningkat signifikan pada bulan :green[februari] atau :green[maret].
-"""
-)
-st.markdown(
-"""
-- Conclusion pertanyaan 2 : Season apa yang paling banyak penggunanya dan paling sedikit?
-- di tahun 2011 dan 2012 season yang paling banyak penggunanya, baik itu pengguna casual dan registered yaitu season :green[Fall] atau season ketiga. dan sebaliknya season dengan pengguna yang paling sedikit yaitu season :green[springer] atau season pertama.
-"""
-)
-st.markdown(
-"""
-- Conclusion pertanyaan 3 : Bagaimana kebiasaan pengguna dalam menggunakan bike rental?
-- pengguna casual rata rata menggunakan bike rental di hari :green[weekend] dan pengguna registered rata rata mengunakan bike rental di :green[working day].
-"""
-)
+
