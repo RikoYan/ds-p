@@ -11,8 +11,9 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit
 streamlit run dashboard.py
 '''
 streamlit dashboard cloud link
-https://mr7hr6qegr2quujn2gh8ox.streamlit.app
+https://mr7hr6qegr2quujn2gh8ox.streamlit.app/
 
 screenshot dashboard
 ![image](https://github.com/RikoYan/ds-p/assets/147687128/c0cb28c2-5acb-4ada-8fcc-5996cfb7a104)
-![image](https://github.com/RikoYan/ds-p/assets/147687128/6c79d8d2-78a6-4640-bbfc-b22d7340d0db)
+![image](https://github.com/RikoYan/ds-p/assets/147687128/0d2fffe2-1660-42f7-b053-d7a3b27f8775)
+
